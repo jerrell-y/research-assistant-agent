@@ -225,8 +225,4 @@ A typical query (4 sub-questions, 800-token answer) costs approximately **$0.05â
 - Redis result cache for production persistence
 - Domain specialisation (medical, legal, financial literature)
 
----
 
-## License
-
-MIT
